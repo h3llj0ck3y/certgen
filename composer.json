@@ -1,0 +1,12 @@
+{
+    "name": "sh3llj0ck3y/certgen",
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    },
+    "authors": [
+        {
+            "name": "Benjamin Letzel",
+            "email": "letzel@co-de.de"
+        }
+    ]
+}
